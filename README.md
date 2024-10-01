@@ -1,0 +1,1 @@
+# 5C-Network-Brain-MRI-Metastasis-Segmentation-Assignment
